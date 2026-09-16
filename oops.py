@@ -1,5 +1,24 @@
-class student:
+class Student:
+    pass
 
-    def __init__(self,name):
-        print("hello how are you",name)
-        
+class Student:
+    pass
+
+
+student1 = Student()
+student2 = Student()  
+
+
+# class Student:
+#     pass
+
+
+# student1 = Student()
+
+# student1.name = "Abhinand"    #attributes
+# student1.age = 22
+# student1.course = "Python"
+
+# print(student1.name)
+# print(student1.age)
+# print(student1.course)
